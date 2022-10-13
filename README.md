@@ -16,7 +16,7 @@ e 1 POST para User
 ![image](https://user-images.githubusercontent.com/59840153/195694001-494b45fc-5e98-421c-9445-690f5d657e69.png)
 
 o resultado para products é o cadastro de produtos em um JSON ou listagem dos produtos do JSON products.json
-
+para user foi utilizado um array apenas para logica, é realizado apenas uma requisição post nesse array e quando criado o usuário é enviado um e-mail de teste via MailTrap
 
 # SOLID
 
