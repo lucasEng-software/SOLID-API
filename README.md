@@ -1,7 +1,7 @@
 # SOLID-API
 
 
-Comando para execução: npm run express
+Comando para execução do server dos testes: npm run express
 
 é possível testar 3 rotas
 2 para Product, 1 POST e 1 GET 
