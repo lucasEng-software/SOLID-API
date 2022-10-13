@@ -1,0 +1,10 @@
+POST http://localhost:3333/products
+content-type: application/json
+
+{
+	"descricao": "Iogurte desnatado 150g",
+    "codigoErp":"2111"
+}
+###
+GET http://localhost:3333/products
+content-type: application/json

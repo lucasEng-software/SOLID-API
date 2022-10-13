@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "descricao": "Bandeija de ovos avine 30 un",
+      "codigoErp": "341",
+      "id": "e7a4229f-4ddb-4760-8249-da8617fc1ebd"
+    },
+    {
+      "descricao": "Nescalball",
+      "codigoErp": "883132457",
+      "id": "1e629b28-9f57-460c-93fd-c3a7fc5b7875"
+    },
+    {
+      "descricao": "Feijão 2kg",
+      "codigoErp": "22",
+      "id": "0165ea4b-dcdd-4683-9945-2f712afb4f2a"
+    },
+    {
+      "descricao": "Arroz 1kg",
+      "codigoErp": "232",
+      "id": "531cd54d-8fde-4671-8a82-7365ca383b95"
+    },
+    {
+      "descricao": "Açucar 1kg",
+      "codigoErp": "454",
+      "id": "9b072618-8892-4d12-b6d5-a974ba05b2e8"
+    },
+    {
+      "descricao": "Iogurte natural 150g",
+      "codigoErp": "444",
+      "id": "912c0aea-91b3-4857-b310-b4d3cc70418d"
+    },
+    {
+      "descricao": "leite maranguape 1l",
+      "codigoErp": "4212",
+      "id": "2dc5691a-1e34-4447-950b-a4e725b7d4aa"
+    },
+    {
+      "descricao": "Iogurte desnatado 150g",
+      "codigoErp": "2111",
+      "id": "494479a6-1973-4612-aeff-197e3e694201"
+    }
+  ]
+}
